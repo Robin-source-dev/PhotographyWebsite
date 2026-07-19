@@ -83,3 +83,10 @@ button{
 button:hover{
     background: #ffdb91;
 }
+strong{
+    color: #0b3d2e;
+}
+em{
+    color: #cc6600;
+    font-style: italic;
+}
