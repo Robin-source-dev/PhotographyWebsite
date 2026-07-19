@@ -36,3 +36,6 @@ p{
     padding: 0;
     flex-wrap: wrap;
 }
+.gallery li{
+    text-align: center;
+}
