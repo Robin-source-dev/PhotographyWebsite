@@ -1,5 +1,11 @@
 # Photography Website
 
+## Author
+
+**Robin Mwenda Gikunda**
+
+Software Development Student
+
 ## Project Overview
 
 This is a simple photography portfolio website developed using **HTML5** and **CSS3**. The website showcases a collection of favorite photographs, includes a short biography, an introductory paragraph, and a contact form for visitors. The design focuses on simplicity, responsiveness, and an attractive user interface.
@@ -97,11 +103,6 @@ No additional software or installation is required.
 - Store contact form submissions using a backend database.
 - Add animations and transitions.
 
-## Author
-
-**Robin Mwenda Gikunda**
-
-Software Development Student
 
 ## License
 
